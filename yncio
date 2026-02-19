@@ -1,0 +1,11 @@
+[33mcommit 70c3d5b835c2ec52bc64d4ecac8f50dc04775dd3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: PNikolas <nikolas_panchenko@icloud.com>
+Date:   Thu Feb 5 16:13:38 2026 +0300
+
+    Знакомство с gRPC протоколом
+
+[33mcommit 6714c0a1c01909c3fb5709f46a5f94a9a7c8d5e3[m
+Author: PNikolas <nikolas_panchenko@icloud.com>
+Date:   Thu Feb 5 14:30:56 2026 +0300
+
+    Initial commit
